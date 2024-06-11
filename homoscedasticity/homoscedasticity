@@ -1,0 +1,17 @@
+Normal model:
+    yhat = b0 + b1 * x1
+    as x increases by 1 unit, Y increases by 1 unit
+
+Semi log model:
+    yhat = b0 + b1 * (logx1)
+    as x increases by 1 percent, Y increases by 1 unit
+
+Semi log model:
+    log yhat = b0 + b1 * x1
+    as x increases by 1 unit, Y increases b1 percent
+
+    yhat = b0 + b1 * 
+
+Log model (elasticity):
+    log yhat = b0 + b1 * (logx1)
+    as x increases by 1 percent, Y increases by 1 percent
